@@ -29,7 +29,7 @@
 ![plot](./images/logos/react-logo.svg)
 ![plot](./images/logos/js-logo.svg)
 ![plot](./images/logos/python-logo.svg)
-
+![plot](./images/logos/losant-logo.svg)
 
 ### Summary
 - The Adaptive Irrigation System is an affordable, user-friendly addition to a manual sprinkler system that helps prevent water waste and ensure lawn health. 
