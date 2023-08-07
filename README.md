@@ -26,10 +26,10 @@
   - Dual solenoid water valves allow separate control of two watering zones with a signal from the Raspberry Pi 
 
 ### Tech Stack
-![plot](./images/logos/react-logo.svg)
-![plot](./images/logos/js-logo.svg)
-![plot](./images/logos/python-logo.svg)
-![plot](./images/logos/losant-logo.svg)
+![React Logo](./images/logos/react-logo.svg)
+![JS Logo](./images/logos/js-logo.svg)
+![Python Logo](./images/logos/python-logo.svg)
+![Losant Logo](./images/logos/losant-logo.svg)
 
 ### Summary
 - The Adaptive Irrigation System is an affordable, user-friendly addition to a manual sprinkler system that helps prevent water waste and ensure lawn health. 
